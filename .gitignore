@@ -1,0 +1,12 @@
+# Claude Code 설정 (토큰 포함)
+.claude/
+.mcp.json
+
+# 시스템 파일
+nul
+
+# 로그 파일
+logs/
+
+# Node.js
+node_modules/
